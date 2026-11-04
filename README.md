@@ -79,7 +79,7 @@ Cada número o correu de correu brossa que detecta es guarda en una base de dade
 Tot això va a una web i una aplicació. Des d'aquí es veu un historial de quin correu brossa ha arribat, què ha respost la IA i quant de temps els ha fet perdre.
 ![Esquema](esquema_pro.png)
 
-### La-Fusta-Lactea
+### [La-Fusta-Lactea](https://github.com/Imad815/la-fusta-lactea)
 
 #### Context
 La FUSTA és una fusteria que fabrica mobles a mida de manera artesanal. Els seus clients són sobretot empreses, hotels, restaurants i locals públics.
