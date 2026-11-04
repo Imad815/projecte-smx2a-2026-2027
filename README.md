@@ -2,13 +2,22 @@
 
 Llista de projectes d'SMX2A del curs 2026-2027.
 
+  - [AlmostReal](#AlmostReal), [almostreal.cat](https://almostreal.cat)
+  - [GameTruk](#GameTruk), [gametruk.cat](https://gametruk.cat)
+  - [GymLeveling](#GymLeveling), [gymleveling.cat](https://gymleveling.cat)
+  - [IHateSpam](#IHateSpam), [ihatespam.cat](https://ihatespam.cat)
+  - [La-Fusta-Lactea](#La-Fusta-Lactea), [la-fusta-lactea.cat]-(https://la-fusta-Lactea.cat)
+  - [MyBread](#MyBread), [mybread.cat](https://mybread.cat)
+  - [OfAI](#OfAI), [ofai.cat](https://ofai.cat)
+  - [UnderLabs](#UnderLabs), [underlabs.cat](https://underlabs.cat)
+
 ### [AlmostReal](https://github.com/samjorge28/AlmostReal)
 
 Esborrany Projecte AlmostReal
 
 AlmostReal – La botiga del futur En què consisteix el projecte? AlmostReal és un projecte que busca modernitzar les botigues de roba mitjançant la tecnologia, la intel·ligència artificial i la realitat virtual. La idea principal és crear una rèplica digital en 3D d'una botiga física, que els clients puguin visitar des d'un ordinador o amb unes ulleres de realitat virtual, com si estiguessin dins de la botiga real. Per crear aquest espai virtual, es podria gravar la botiga amb un mòbil o un dron i utilitzar eines de reconstrucció 3D per generar un model inicial. Després, es podria editar amb Blender i incorporar-lo a Unreal Engine, on es crearia l'entorn interactiu. Idees i funcions principals Botiga virtual en 3D: els clients podrien caminar per la botiga virtual i veure on es troba cada peça de roba. Mode PC i realitat virtual: es podria explorar la botiga amb el teclat i el ratolí o amb ulleres de realitat virtual, per tenir una experiència més immersiva. Assistent virtual amb IA: un assistent podria respondre preguntes com ara «On són les dessuadores negres?» o «Quin conjunt em recomanes per sortir?». Recomanacions de roba: el sistema podria recomanar conjunts segons els colors, l'estil, la talla i el pressupost del client. Mapa i rutes: quan el client triés una peça, el sistema la destacaria dins de la botiga virtual i li mostraria el camí per arribar-hi. Control d'estoc: una base de dades permetria consultar els productes disponibles, les talles, els colors i la seva ubicació. Panell d'administració: els treballadors podrien gestionar els productes, actualitzar l'estoc i consultar informació de la botiga. Com es podria desenvolupar? Per fer el projecte, es podrien utilitzar diferents eines: Blender: per crear i modificar els models 3D. Unreal Engine: per construir la botiga virtual interactiva i el mode de realitat virtual. Python: per programar algunes funcions de la IA i la comunicació entre sistemes. MySQL o PostgreSQL: per guardar els productes, les talles i l'estoc. Linux Server: per allotjar els serveis i la base de dades. HTML, CSS i JavaScript: per crear el panell web d'administració. Part d'informàtica i xarxes Com que és un projecte del cicle de SMX, també es treballaria la part d'infraestructura informàtica. Es podria configurar un servidor Linux, una base de dades, una xarxa local, adreces IP, usuaris i permisos, mesures de seguretat i sistemes de monitoratge per comprovar que els serveis funcionen correctament. Objectiu final L'objectiu és crear una demostració funcional d'una botiga de roba intel·ligent on un client pugui entrar en un entorn 3D, parlar amb un assistent d'IA, rebre recomanacions i trobar els productes fàcilment. No caldria construir una botiga completa des del principi: es podria començar amb una versió petita i anar afegint funcions a mesura que avanci el projecte. AlmostReal vol demostrar com es poden combinar la realitat virtual, la intel·ligència artificial, les bases de dades, els servidors i les xarxes per crear una nova manera de comprar roba.
 
-### [Game Truk](https://github.com/AdamHmamSetti/GameTruk)
+### [GameTruk](https://github.com/AdamHmamSetti/GameTruk)
 Aquest projecte consisteix en la creació d’una petita empresa, que és un camió gaming, on la gent podrà venir a jugar a videojocs amb els seus amics, fer tornejos i passar-ho bé.
 
 El sector on es trobarà seran en diferents festivitats en Pobles i Ciutats.
@@ -65,7 +74,7 @@ Reserves directament per la pàgina web.
 En el que ens centrarem en el nostre projecte és en un sistema de Channel Bonding per ajuntar totes les xarxes de Starlink per aconseguir ajuntar-les totes en una sola.
 
 També ens encarregarem amb Ubuntu server i amb un hub d'Ethernet en un ordinador fer servir això amb una petita demostració de què funciona bé, fent servir el Channel Bonding.
- 
+
 Fer una pàgina del nostre projecte per donar a conèixer a la gent que la vegi de què tracta, amb informació del que és el GameTruk.
 
 
@@ -77,7 +86,7 @@ El nostre projecte és un projecte d’un gimnàs gamificat, el seu nom és **Gy
 Som una petita empresa local anomenada **GymLeveling S.L.**, el nostre gimnàs es troba al C/ Del Torrent 21, Corçà, 17121, Girona i actualment és l’única ubicació on es pot trobar el nostre local. Darrere del projecte estem dues persones que anaven a un gimnàs convencional, i ara el nostre objectiu és implementar nous sistemes per fer del gimnàs un lloc on tinguis ganes d’anar.
 ## Que oferim
 ### Sistemes
-Nosaltres oferim gamificar el gimnàs, aquí incloem diversos punts, com per exemple competicions per punts, missions, ratxes, etc. tot això estaria en una aplicació on tindries tots aquests elements i més, aquella aplicació anirà rebent actualitzacions i implementant millores, tot al seu temps. 
+Nosaltres oferim gamificar el gimnàs, aquí incloem diversos punts, com per exemple competicions per punts, missions, ratxes, etc. tot això estaria en una aplicació on tindries tots aquests elements i més, aquella aplicació anirà rebent actualitzacions i implementant millores, tot al seu temps.
 
 ### Millores i solucions de problemes
 Això aporta una gran millora al sistema d’un gimnàs convencional, ja que hi ha elements que et faran voler anar, ja sigui perquè seràs a un dia de aconseguir alguna recompensa per la qual estàs estalviant, perquè vols completar la missió, o simplement perquè no vols perdre la teva ratxa, qualsevol que sigui la raó et motiva a anar. Evidentment, aquesta millora resol un dels principals problemes d’anar a un gimnàs per la majoria de gent, que són les ganes d’anar-hi, i a molta gent que va per motivació i ho acaba deixant, amb aquesta millora, estaràs molt més motivat cada dia per anar-hi. A més a més, si hi ha algun dia que no pots anar, et donaria una solució d’exercici per fer a casa, per sempre poder fer l’exercici necessari.
@@ -91,7 +100,7 @@ Correcció de tècnica en màquines i mediador del rang en funció del pes que a
 Aquests són els pilars més fonamentals del nostre projecte, però té més funcions i afegirà més funcions en un futur.
 
 ### Per qui està dirigit
-El nostre projecte està dirigit per qualsevol persona que vagi o vulgui anar a un gimnàs, o fins i tot per gent que només vulguin entrenar a casa, el nostre projecte no entén d’edats ni de gènere, és vàlid per qualsevol persona que vulgui portar una vida saludable a partir de l’entrenament. L’ús seria molt simple, amb una aplicació amb una interfície molt intuïtiva i clara, i un objectiu clar, incentivar-te a anar al gimnàs. 
+El nostre projecte està dirigit per qualsevol persona que vagi o vulgui anar a un gimnàs, o fins i tot per gent que només vulguin entrenar a casa, el nostre projecte no entén d’edats ni de gènere, és vàlid per qualsevol persona que vulgui portar una vida saludable a partir de l’entrenament. L’ús seria molt simple, amb una aplicació amb una interfície molt intuïtiva i clara, i un objectiu clar, incentivar-te a anar al gimnàs.
 ## Quins elements inclou i no inclou el nostre projecte
 El nostre projecte afegeix diferents elements, com ara
 Una pàgina web
@@ -175,18 +184,18 @@ El nostre objectiu és aconseguir un sistema segur, fàcil d'utilitzar, fiable i
 
 #### Context
 
-L’idea d’aquest projecte es poder digitalitzar un Fleca. Volem crear una tecnología que faciliti la feina dels treballadors, millori l'experiència dels clients i ajudi a vendre més evitant el desperdici d’aliments. 
+L’idea d’aquest projecte es poder digitalitzar un Fleca. Volem crear una tecnología que faciliti la feina dels treballadors, millori l'experiència dels clients i ajudi a vendre més evitant el desperdici d’aliments.
 
-Actualment en una fleca tradicional podem trobar diferent problemes relacionats amb l’organització de les comandes, el control dels productes, l’atenció al client i la gestió de les vendes. 
+Actualment en una fleca tradicional podem trobar diferent problemes relacionats amb l’organització de les comandes, el control dels productes, l’atenció al client i la gestió de les vendes.
 
-##### Problemes que volem solucionar 
+##### Problemes que volem solucionar
 
 Farem una proposta ràpida de problemes i solucions que podem donar
 
 **Cues al comprar el pa** → Comandes anticipades i recollida, poden per exemple programar el pa cada dia a la mateixa hora
 
-**Control de stock** → Crear un cataleg amb disponibilitat dels productes  
-n  
+**Control de stock** → Crear un cataleg amb disponibilitat dels productes
+n
 **Es tira el pa a final del dia** → Ofertes d’última hora
 
 **Les comandes van amb paper i boli** → Fer un sistema centralitzat amb la gestió de les comandes, per tindre un ordre
@@ -197,7 +206,7 @@ n
 
 **Pot costar analitzar les vendes que es fan** → Un panell amb estadístiques, com a l’anterior, es pot ajudar a fer estadístiques sobre que compren més, a quines hores…
 
-Amb MyBread volem solucionar aquest problemes amb una plataforma digital que conecti amb els clients i els treballadors i faciliti la gestió del negoci. 
+Amb MyBread volem solucionar aquest problemes amb una plataforma digital que conecti amb els clients i els treballadors i faciliti la gestió del negoci.
 
 
 
@@ -206,45 +215,45 @@ Amb MyBread volem solucionar aquest problemes amb una plataforma digital que con
 
 ##### Que proposem
 
-**Una botiga online:** 
+**Una botiga online:**
 
-Proposem fer una botiga online, tant web com aplicació que aparegui un catàleg amb fotografíes dels productes, i on el client (i preparat també per a la gent gran, que son els principals clients del pà a primera hora) puguin de manera intuitiva el pa, l’hora de recollida i si pagar online o a botiga. 
+Proposem fer una botiga online, tant web com aplicació que aparegui un catàleg amb fotografíes dels productes, i on el client (i preparat també per a la gent gran, que son els principals clients del pà a primera hora) puguin de manera intuitiva el pa, l’hora de recollida i si pagar online o a botiga.
 
-**Gestió interna:** 
+**Gestió interna:**
 
-Fer un panell privat per als treballadors. Aquest panell estaria posat als ordinadors de la fleca, i permetria als treballadors veure comandes pendents, control·lar les existències restants, actualitzar els productes i consultar les vendes dels dies. 
+Fer un panell privat per als treballadors. Aquest panell estaria posat als ordinadors de la fleca, i permetria als treballadors veure comandes pendents, control·lar les existències restants, actualitzar els productes i consultar les vendes dels dies.
 
-**Productes restants:** 
+**Productes restants:**
 
-A final de dia, els productes que no s’haguin venut, es poden vendre amb descompte, amb packs promoció, o ofertas d’última hora. Aixó es un programa qui et diu quins productes baixar i a quin preu. Pot arribar a estar conectat amb les estadístiques per a saber els productes que s’acaben de vendre a última hora i els que no, i baixar el necessari els que calguin. 
+A final de dia, els productes que no s’haguin venut, es poden vendre amb descompte, amb packs promoció, o ofertas d’última hora. Aixó es un programa qui et diu quins productes baixar i a quin preu. Pot arribar a estar conectat amb les estadístiques per a saber els productes que s’acaben de vendre a última hora i els que no, i baixar el necessari els que calguin.
 
-**Fidelització:** 
+**Fidelització:**
 
 A la mateixa web / aplicació per a la botiga online, es pot afegir un programa de punts, cupons, descomptes al dia d’aniversari i recompenses per a clients habituals.
 
-**Estadístiques:** 
+**Estadístiques:**
 
-Tenir estadístiques de tot el que passi a la botiga. Poder veure les ventes del dia, quins productes s’han venut més, les hores de màxima demanda, i per exemple els productes que s’han perdut per fer de més. 
+Tenir estadístiques de tot el que passi a la botiga. Poder veure les ventes del dia, quins productes s’han venut més, les hores de màxima demanda, i per exemple els productes que s’han perdut per fer de més.
 
-**Recollida ràpida**: 
+**Recollida ràpida**:
 
-El client quan fa la reserva del pa per exemple reb un codi QR, per quan vagi a la botiga a recollir la comanda, únicament calgui escanejar el codi, i treure la bossa préviament preparada, per anar molt més ràpid. 
+El client quan fa la reserva del pa per exemple reb un codi QR, per quan vagi a la botiga a recollir la comanda, únicament calgui escanejar el codi, i treure la bossa préviament preparada, per anar molt més ràpid.
 
-##### Objectius 
+##### Objectius
 
-Els nostres principals objectius son: 
+Els nostres principals objectius son:
 
-* Digitalitzar la gestió d’una panaderia   
-* Reduir els errors humans en les comandes i en l’inventari  
-* Millorar l'experiència de compra per al client  
-* Disminuir el desperdici d’aliments amb promocions al final de dia  
-* Modernitzar i reinventar un nou negoci de fleca, més modern i fàcil. 
+* Digitalitzar la gestió d’una panaderia
+* Reduir els errors humans en les comandes i en l’inventari
+* Millorar l'experiència de compra per al client
+* Disminuir el desperdici d’aliments amb promocions al final de dia
+* Modernitzar i reinventar un nou negoci de fleca, més modern i fàcil.
 
 ##### Arquitectura del sistema
 
 [https\://www\.odoo.com/ca\_ES](https://www.odoo.com/ca_ES)
 
-S’ha de tindre 2 web, una al núvol per tota la part frontend i una en local per a tota la part backend, que es connectin. 
+S’ha de tindre 2 web, una al núvol per tota la part frontend i una en local per a tota la part backend, que es connectin.
 
 **FRONTEND \- Web per als clients**
 
@@ -254,13 +263,13 @@ Aquesta part permetrà als clients consultar els productes, fer comandes online 
 
 **BACKEND- Logística del projecte**
 
-Amb això farem la gestió interna, les comandes i la connexió amb la base de dades. 
+Amb això farem la gestió interna, les comandes i la connexió amb la base de dades.
 
-**Base de dades** 
+**Base de dades**
 
 MySQL: Clients, Productes, Comandes i Stock
 
-També s’ha d’afegir seguretat, copias de seguretat diàries, protegir les contrasenyes, i un sistema de permisos per als treballadors i l’administrador.  
+També s’ha d’afegir seguretat, copias de seguretat diàries, protegir les contrasenyes, i un sistema de permisos per als treballadors i l’administrador.
 
 
 
@@ -331,4 +340,3 @@ En conjunt, la iniciativa pretén establir un ecosistema tecnològic integral di
 
 L'abast d'aquest projecte serà el següent: el sistema de programari propi, el servidor en línea i la pàgina web.
 El que no entra dins de l'abast: el maquinari on funcionarà el sistema i el perifèrics de marca pròpia.
-
