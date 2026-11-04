@@ -127,7 +127,7 @@ Finalment, tindreu una pàgina web per descarregar una extensió per als navegad
 
 ![Esquema](esquema_pro.png)
 
-### La-Fusta-Lactea
+### [La-Fusta-Lactea](https://github.com/Imad815/la-fusta-lactea)
 
 #### Context
 La FUSTA és una fusteria que fabrica mobles a mida de manera artesanal. Els seus clients són sobretot empreses, hotels, restaurants i locals públics.
