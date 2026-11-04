@@ -6,7 +6,7 @@ Llista de projectes d'SMX2A del curs 2026-2027.
   - [GameTruk](#GameTruk), [gametruk.cat](https://gametruk.cat)
   - [GymLeveling](#GymLeveling), [gymleveling.cat](https://gymleveling.cat)
   - [IHateSpam](#IHateSpam), [ihatespam.cat](https://ihatespam.cat)
-  - [La-Fusta-Lactea](#La-Fusta-Lactea), [la-fusta-lactea.cat]-(https://la-fusta-Lactea.cat)
+  - [La-Fusta-Lactea](#La-Fusta-Lactea), [la-fusta-lactea.cat](https://la-fusta-Lactea.cat)
   - [MyBread](#MyBread), [mybread.cat](https://mybread.cat)
   - [OfAI](#OfAI), [ofai.cat](https://ofai.cat)
   - [UnderLabs](#UnderLabs), [underlabs.cat](https://underlabs.cat)
