@@ -2,7 +2,7 @@
 
 Llista de projectes d'SMX2A del curs 2026-2027.
 
-  - [AlmostReal](#AlmostReal), [almostreal.cat](https://almostreal.cat)
+  - [AlmostReal](#AlmostReal), [almostreal.cat](https://almostreal.cat){:target="_blank"}
   - [GameTruk](#GameTruk), [gametruk.cat](https://gametruk.cat)
   - [GymLeveling](#GymLeveling), [gymleveling.cat](https://gymleveling.cat)
   - [IHateSpam](#IHateSpam), [ihatespam.cat](https://ihatespam.cat)
