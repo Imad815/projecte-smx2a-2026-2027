@@ -141,11 +141,8 @@ Finalment, tindreu una pàgina web per descarregar una extensió per als navegad
 #### Context
 
 La FUSTA és una fusteria que fabrica mobles a mida de manera artesanal. Els seus clients són sobretot empreses, hotels, restaurants i locals públics.
-
 Actualment, l'empresa està poc digitalitzada i molts processos es fan de manera tradicional. Per aquest motiu, la nova direcció vol modernitzar l'empresa per millorar l'organització, reduir costos, controlar millor els processos i aprofitar millor els materials.
-
 La FUSTA és una petita empresa que es dedica a fabricar i vendre mobles a mida. El nostre projecte és de digitalització: hem de preparar una infraestructura informàtica nova i posar en marxa sistemes nous que substitueixin els processos tradicionals.
-
 Nosaltres, com a responsables del projecte, haurem d'analitzar les necessitats de La FUSTA i proposar una solució informàtica que ajudi a modernitzar l'empresa.
 
 #### Descripció del sistema
